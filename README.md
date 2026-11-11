@@ -3,7 +3,7 @@
 ### Junior Business Intelligence & Reporting Analyst
 Power BI | SQL | Excel | Data Analysis | KPI Reporting
 
-Welcome to my BI portfolio! I am developing my skills in business intelligence, data analysis, and reporting, with a focus on turning data into meaningful business information.
+Welcome to my BI portfolio! I leverage proven experience in business intelligence, end-to-end dashboard development, and operational data analysis to transform raw data into actionable performance metrics and executive insights.
 
 ## My Projects
 
